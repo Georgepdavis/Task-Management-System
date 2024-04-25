@@ -83,6 +83,6 @@ Authentication is handled using JWT tokens.
 
 ---
 
-Feel free to customize this README file further based on your specific project details and requirements.
+
         
 
